@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T19:23:04.120836+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-08-03T22:38:39.462930+08:00",
+  "total_titles_processed": 1378,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
@@ -124,6 +124,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "没招了？美媒爆料：美军群发邮件征集对伊朗施压想法",
+          "url": "https://news.ifeng.com/c/8vIQYttFgB2",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "伊朗重申霍尔木兹海峡不会恢复至战前状态",
@@ -429,7 +440,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -500,6 +511,17 @@
           "time_info": "15时25分"
         },
         {
+          "title": "报道：伊朗已拒绝美国关于霍尔木兹海峡的提议",
+          "url": "https://wallstreetcn.com/livenews/3144180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "伊朗称重开霍尔木兹海峡计划纯属谣言",
           "url": "https://wallstreetcn.com/livenews/3143678",
           "source": "华尔街见闻-快讯",
@@ -517,7 +539,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         }
@@ -525,7 +547,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
@@ -584,8 +606,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 19时23分]"
+          "appearance_count": 4,
+          "time_info": "[15时25分 ~ 22时38分]"
         },
         {
           "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
@@ -875,6 +897,17 @@
           "time_info": "15时25分"
         },
         {
+          "title": "美国总统特朗普：石油公司，降低你们的价格。",
+          "url": "https://wallstreetcn.com/livenews/3144196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "特朗普叫停对伊新打击，称协议“即将达成”，美油开盘暴跌超8%！",
           "url": "https://flash.jin10.com/detail/20260803064716887800",
           "source": "金十数据",
@@ -892,7 +925,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -925,7 +958,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -950,6 +983,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
+        },
+        {
+          "title": "美媒：因凡蒂诺求助特朗普保其职位",
+          "url": "https://www.toutiao.com/trending/7669763103931764251/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "美国总统特朗普：已决定对加拿大野火问题采取惩罚措施，但暂不公布。",
@@ -1021,7 +1065,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
@@ -1062,6 +1106,28 @@
           "time_info": "11时48分"
         },
         {
+          "title": "DeepSeek一天消耗了8万亿",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%B8%80%E5%A4%A9%E6%B6%88%E8%80%97%E4%BA%868%E4%B8%87%E4%BA%BF&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "DeepSeek 斩杀线",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
           "url": "https://www.zhihu.com/question/2065010626171293829",
           "source": "知乎",
@@ -1080,11 +1146,12 @@
           "url": "https://www.zhihu.com/question/2067512422555029717",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 19时23分]"
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 22时38分]"
         },
         {
           "title": "DeepSeek模型单日吞下8万亿Token",
@@ -1133,6 +1200,78 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 08时01分]"
+        },
+        {
+          "title": "美伊谈判乐观情绪升温，美股期指走高，阿里巴巴盘前涨超5%，WTI油价跌超5%，日元冲高回落",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
+        },
+        {
+          "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "中东紧张局势降温 美股期指上涨、油价重挫 存储股盘前下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2444462",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "北美科技软件股指数ETF美股盘初涨1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3144189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "美股三大股指小幅高开，道指涨0.52%，标普500指数涨0.33%，纳指涨0.3%。阿里巴巴涨超3%，此前发布千问3.8-MAX，长程自动编程表现出色；科技股涨跌不一，微软、亚马逊均涨超2%；美光科技、闪迪跌5%。",
+          "url": "https://wallstreetcn.com/livenews/3144187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
@@ -1156,19 +1295,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 19时23分]"
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 22时38分]"
         },
         {
           "title": "澎湃思想周报｜当菲尔兹奖得主加入OpenAI；“云霸权”兴起",
           "url": "https://m.thepaper.cn/newsDetail_forward_33698195",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 19时23分]"
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 22时38分]"
         },
         {
           "title": "如何看待 OpenAI 宣布 Astra 在十个长期开放的数学与理论计算机问题上取得重大进展？",
@@ -1184,30 +1324,69 @@
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "RWE与谷歌(GOOG.O)签署为期五年的购电协议，承购俄克拉荷马州麦柯廷县155兆瓦Crooked Creek太阳能项目的全部发电量。RWE计划于今年晚些时候启动该项目的现场建设。",
+          "url": "https://flash.jin10.com/detail/20260803221202004800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "RWE与谷歌(GOOG.O)签署俄克拉荷马州太阳能项目购电协议。",
+          "url": "https://flash.jin10.com/detail/20260803220851286800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "谷歌盘中总市值达4.51万亿美元，超过苹果升至全球第二。",
+          "url": "https://wallstreetcn.com/livenews/3144191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
       "match_count": 2,
       "titles": [
         {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
+          "title": "美债彻底陷入“失控边缘”：真正的风暴才刚开始？",
+          "url": "https://www.cls.cn/detail/2443731",
           "source": "财联社热门",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 08时01分]"
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
-          "title": "美伊谈判乐观情绪升温，美股期指走高，阿里巴巴盘前涨超5%，WTI油价跌超5%，日元冲高回落",
-          "url": "https://wallstreetcn.com/articles/3778526",
-          "source": "华尔街见闻",
+          "title": "三菱日联：美国支持日本稳汇率有助于缓解美债的抛压",
+          "url": "https://wallstreetcn.com/livenews/3144177",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            30
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 19时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         }
       ]
     },
@@ -1225,23 +1404,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美债彻底陷入“失控边缘”：真正的风暴才刚开始？",
-          "url": "https://www.cls.cn/detail/2443731",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时25分"
         }
       ]
     }
